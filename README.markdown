@@ -1,4 +1,4 @@
-# Power BI Project README
+# Saudi-Company-Sales-Analysis
 
 ## 1. Data Description
 This project uses a dataset containing daily revenue data for January 2025. The data includes sales records for 5 products (A, B, C, D, E) across 5 regions in Saudi Arabia (Riyadh, Jeddah, Al Khobar, Mecca, Dammam). Each entry specifies the date, product, region, and revenue amount. There are 150 records in total (5 products per day over 30 days), with revenues ranging from 529 to 4916 per entry.
@@ -18,7 +18,7 @@ A interactive dashboard was built in Power BI to visualize the data. It includes
 - Cards displaying total revenue, number of products, and other KPIs.
 - A gauge chart for average revenue.
 
-![Dashboard Screenshot](dashboard_screenshot.png)
+![Dashboard Screenshot](https://github.com/HazemMedhat/Saudi-Company-Sales-Analysis-/blob/02acae0e35ce0ffa54bdd24b547c3b5b9c6fec45/%D9%84%D9%88%D8%AD%D8%A9%20%D8%AA%D8%AD%D9%84%D9%8A%D9%84%20%D9%85%D8%A8%D9%8A%D8%B9%D8%A7%D8%AA.png)
 
 ## 3. Extracted Insights
 ### 3.1 Measures
